@@ -77,12 +77,7 @@ Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com
 
 Follow the steps.
 
-<!-- reporting issue -->
-## 🐞Reporting Issues
-We use GitHub Issues as the official bug tracker for the hargo Template. Please Search [existing
-issues](https://github.com/themefisher/hargo-hugo/issues). Someone may have already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new
-issue](https://github.com/themefisher/hargo-hugo/issues).
+
 
 ## 📱Submit Your Website To Our Showcase
 
@@ -99,8 +94,6 @@ View all the websites powered by Hargo Hugo from [here](https://gethugothemes.co
 Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
 [Gethugothemes](https://gethugothemes.com)
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/hargo-hugo/blob/master/LICENSE) license.
-
 **Image license:** The images are only for demonstration purposes. They have their licenses. We don't have permission to
 share those images.
 
@@ -114,14 +107,3 @@ share those images.
 - [All Contributors](https://github.com/themefisher/hargo-hugo/graphs/contributors)
 
 
-## 👨‍💻Hire Us
-Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo. 
-
-If you need to customize the theme or complete website development from scratch, you can hire us. **Check Our 
-[services](https://gethugothemes.com/services/?utm_source=hargo_github&utm_medium=referral&utm_campaign=github_theme_readme)**
-
-<!-- premium themes -->
-## 💎Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=hargo_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Vex](https://demo.gethugothemes.com/thumbnails/vex.png)](https://gethugothemes.com/products/vex/) | [![Adrian](https://demo.gethugothemes.com/thumbnails/adrian.png)](https://gethugothemes.com/products/adrian/) |
-|:---:|:---:|:---:|
-| **Get 55+ Premium Hugo Themes Bundle** | **Vex** | **Adrian** |
